@@ -77,6 +77,8 @@ To convert an original or resampled layer to ASCII XYZ format
 - select save to file and specify XYZ as file type
 - select Run
 ```
+![Pop Density GEOTIFF](https://github.com/drewfrobot/unity-and-more-data/blob/master/Images/gpw-v4-population-density-rev11_1_deg_QGIS.png)
+![Elevation GEOTIFF](https://github.com/drewfrobot/unity-and-more-data/blob/master/Images/World_e-Atlas-UCSD_SRTM30-plus_v8_QGIS.jpg)
 
 ## Next Steps - R and Data preparation cleaning
 
@@ -274,6 +276,8 @@ There are four parameters which can be adjusted via the headup display dropdowns
 - a bias multiplier to make the population density more prominent.
 
 Have fun exploring the data!
+
+![Data Vis](https://github.com/drewfrobot/unity-and-more-data/blob/master/Images/vis01.JPG)
 
 ## Further reading and inspiration for this exercise
 
